@@ -1,0 +1,29 @@
+body{
+    font-size: 15px; 
+    background-image: url(back.jpg);
+    background-size:cover;
+    width: 50%;
+    margin:auto;
+}
+
+img{
+    width: 60%;
+    border: 5px dotted red;
+    border-radius: 5%;
+    display: block;
+    margin: auto;
+}
+h1{
+    border-bottom: 5px solid black;
+    text-align: center;
+    background-color: #aaaaaa;
+    
+}
+h2{
+    text-align: center;
+    
+}
+.kirmizi{
+    color:red ;
+}
+
